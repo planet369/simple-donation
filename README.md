@@ -5,3 +5,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+For more info about this exercise please follow this link: https://www.notion.so/Develop-a-Simple-Donation-Application-06df6ec9781240a5b70f63f5c1421e1b
